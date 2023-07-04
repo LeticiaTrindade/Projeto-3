@@ -2,7 +2,7 @@
 
 Este é um projeto sobre a banda Falling in Reverse, que consiste em um arquivo HTML contendo informações sobre a banda, seus integrantes, prêmios e indicações, além de uma seção pessoal onde compartilho as razões pelas quais a Falling in Reverse é uma das minhas bandas favoritas, e também uma lista das minhas músicas favoritas da banda.
 
-![image](https://github.com/LeticiaTrindade/Projeto-FallingInReverse-FormacaoHTML-DIO/assets/61462194/1b65b283-0882-4de4-b602-4c4b9b914533)
+![image](https://github.com/LeticiaTrindade/Projeto-FallingInReverse-FormacaoHTML-DIO/assets/61462194/a594fe82-54b6-4f71-8333-7afbf0381895)
 
 ## Desafio proposto pela escola DIO.ME
 
